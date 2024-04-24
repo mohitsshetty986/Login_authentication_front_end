@@ -1,2 +1,2 @@
 # Login_authentication_front_end
- Frontend code for login and Signup authentication for the yourmauka mobile app
+ Frontend code for login and Signup authentication for an example mobile app
